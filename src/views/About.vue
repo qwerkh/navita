@@ -45,6 +45,9 @@
         <div class="subTitle2">
           <v-icon class="iconColor">mdi-star-four-points</v-icon> {{$t("coreValue3")}}
         </div>
+        <div class="subTitle2">
+          <v-icon class="iconColor">mdi-star-four-points</v-icon> {{$t("coreValue4")}}
+        </div>
       </v-col>
     </v-row>
 
