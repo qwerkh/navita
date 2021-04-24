@@ -5,7 +5,7 @@
       {{ $t("getInTouch") }}
     </h2>
     <v-row>
-      <v-col cols="12" md="4" sm="4">
+      <v-col cols="12" md="6" sm="6">
         <div class="subTitle1" style="text-align: left">
           {{ $t("getInTouchDetail") }}
         </div>
@@ -58,7 +58,7 @@
       </v-col>
 
       <v-col cols="12" md="6" sm="6">
-
+          <v-img src="../assets/dFruit.gif"></v-img>
       </v-col>
     </v-row>
   </div>

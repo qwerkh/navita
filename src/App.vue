@@ -147,7 +147,51 @@
         hide-delimiter-background
     >
       <v-carousel-item
-          :key="1"
+          v-if="!$vuetify.breakpoint.mobile"
+          key="121"
+          reverse-transition="fade-transition"
+          background-size="contain"
+          transition="slide-x-transition"
+          src="./assets/slider0.jpg"
+      >
+        <div class="absolute-div">
+          <div class="carousel-caption">
+            <!--                        <h1>Slide {{1 }} </h1>-->
+          </div>
+        </div>
+      </v-carousel-item>
+      <v-carousel-item
+          v-if="$vuetify.breakpoint.mobile"
+          key="121"
+          reverse-transition="fade-transition"
+          background-size="contain"
+          transition="slide-x-transition"
+          src="./assets/slider0m.jpg"
+      >
+        <div class="absolute-div">
+          <div class="carousel-caption">
+            <!--                        <h1>Slide {{1 }} </h1>-->
+          </div>
+        </div>
+      </v-carousel-item>
+      <v-carousel-item
+          v-if="$vuetify.breakpoint.mobile"
+          key="1"
+          reverse-transition="fade-transition"
+          background-size="contain"
+          transition="slide-x-transition"
+          src="./assets/slider1m.jpg"
+      >
+        <div class="absolute-div">
+          <div class="carousel-caption">
+            <!--                        <h1>Slide {{1 }} </h1>-->
+          </div>
+        </div>
+      </v-carousel-item>
+      <v-carousel-item
+          v-if="!$vuetify.breakpoint.mobile"
+
+          key="1"
           reverse-transition="fade-transition"
           background-size="contain"
           transition="slide-x-transition"
@@ -160,7 +204,9 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
-          :key="2"
+          v-if="!$vuetify.breakpoint.mobile"
+
+          key="2"
           background-size="contain"
           reverse-transition="fade-transition"
           transition="slide-x-transition"
@@ -174,7 +220,24 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
-          :key="3"
+          key="2"
+          v-if="$vuetify.breakpoint.mobile"
+          background-size="contain"
+          reverse-transition="fade-transition"
+          transition="slide-x-transition"
+          src="./assets/slider2m.jpg"
+
+      >
+        <div class="absolute-div">
+          <div class="carousel-caption">
+            <!--                        <h1>Slide {{1 }} </h1>-->
+          </div>
+        </div>
+      </v-carousel-item>
+      <v-carousel-item
+          key="3"
+          v-if="!$vuetify.breakpoint.mobile"
+
           background-size="contain"
           reverse-transition="fade-transition"
           transition="slide-x-transition"
@@ -191,7 +254,28 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
-          :key="4"
+          key="3"
+          v-if="$vuetify.breakpoint.mobile"
+
+          background-size="contain"
+          reverse-transition="fade-transition"
+          transition="slide-x-transition"
+          src="./assets/slider3m.jpg"
+
+
+      >
+        <!--        <v-img src="./assets/slider3.jpg" contain width="100%"></v-img>-->
+
+        <div class="absolute-div">
+          <div class="carousel-caption">
+            <!--                        <h1>Slide {{1 }} </h1>-->
+          </div>
+        </div>
+      </v-carousel-item>
+      <v-carousel-item
+          key="4"
+          v-if="!$vuetify.breakpoint.mobile"
+
           background-size="contain"
           src="./assets/slider4.jpg"
           reverse-transition="fade-transition"
@@ -205,8 +289,40 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
-          :key="5"
+          key="4"
+          v-if="$vuetify.breakpoint.mobile"
+
+          background-size="contain"
+          src="./assets/slider4m.jpg"
+          reverse-transition="fade-transition"
+          transition="slide-x-transition"
+      >
+
+        <div class="absolute-div">
+          <div class="carousel-caption">
+            <!--                        <h1>Slide {{1 }} </h1>-->
+          </div>
+        </div>
+      </v-carousel-item>
+      <v-carousel-item
+          key="5"
+          v-if="!$vuetify.breakpoint.mobile"
+
           src="./assets/slider5.jpg"
+          reverse-transition="fade-transition"
+          transition="slide-x-transition"
+      >
+
+        <div class="absolute-div">
+          <div class="carousel-caption">
+            <!--                        <h1>Slide {{1 }} </h1>-->
+          </div>
+        </div>
+      </v-carousel-item>
+      <v-carousel-item
+          key="5"
+          v-if="$vuetify.breakpoint.mobile"
+          src="./assets/slider5m.jpg"
           reverse-transition="fade-transition"
           transition="slide-x-transition"
       >
@@ -263,7 +379,7 @@
           <v-divider></v-divider>
 
           <v-card-text class="white--text">
-            2021 — <strong>Navita</strong>
+            @copyright 2021 — <strong>Navita</strong>
           </v-card-text>
         </v-card>
       </v-footer>
