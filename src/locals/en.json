@@ -1,4 +1,41 @@
 {
   "message": "hello i18n !!",
-  "home": "Home"
-}
+  "home": "Home",
+  "welcome": "Welcome to Navita Food Prodcution",
+  "slogan": "Eat Healthy - Look Healthy - Feel Healthy",
+  "dragonFruit": "Dragon Fruit",
+  "subtitleDragonFruit": "Natural Dried Dragon fruit 100% from the best quality of fresh dragon fruit. In one package of dried dragon fruit produced from 3 fresh dragon fruit , and provided lots of benefits to your health with high nutrients, calcium, vitaminB1, vitaminB2, vitaminB3, vitaminC and vitaminE.\nNo sugars, no preservatives and no color added \nNet weight 50g",
+  "pineapple": "Pineapple",
+  "subtitlePineapple": "Natural dried pineapple 100% from the best quality of fresh pineapple. In one package of dried pineapple produced from 3 fresh pineapples, and provided lots of benefits to your health with high nutrients, calcium, vitaminA, vitaminB, vitaminC and vitaminE.\nNo sugars, no preservatives and no color added. Net weight 60g",
+  "mango": "Mango",
+  "subtitleMango": "Natural dried mango 100% collected from our own farm with the best quality of mango. In One package of dried mango produced from 3 fresh mangoes, and provided lots of benefits to your health with high vitamin and calcium. No sugars, no preservatives and no color added Net weight 70g.",
+
+  "about": "About",
+  "aboutUs": "About Us",
+  "companyProfile": "Company Profile",
+  "subtitleAboutUs": "Navita was established in November 2020 in the form of a small start-up enterprise. Founder and Co-founder are siblings who graduated from Industrial Engineering and Food Science Engineering, respectively, and it is the strong foundation and investment in this business. Not different from other enterprises, Navita exists because of love in the agroindustry sector. Moreover, Navita is part of helping the Cambodian economy by providing more jobs and create more markets for local farmers. \n",
+  "subtitleAboutUs1": "Many enterprises in Cambodia are working in the same field of dried fruit processing, but Navita is doing things differently. Navita’s core value is no sugar nor preservatives added. We provide completely healthy snacks rich in vitamins from natural fruit to our consumers. Carefully standardized hygiene packaging process, eye-catching packaging design, and healthy dried fruit are the value-added, which make us proud to present this unique product to the markets (anywhere both domestic and international).\n",
+  "vision": "Vision",
+  "vision1": "To be the first choice of Healthy food in the mindset of consumers and honored cooperation.\n",
+  "mission": "Mission",
+  "mission0": "Navita is committed to:",
+  "mission1": " Produce quality dried fruits without using any harmful chemicals to health\n",
+  "mission2": " Continue research and develop our product \n",
+  "mission3": " Promote, advertise and find clients, partners and needs in line with Navita, both domestically and internationally\n",
+  "coreValue": "Core Value",
+  "coreValue1": "Product Integrity",
+  "coreValue2": "Customer satisfaction with healthy dried fruit",
+  "coreValue3": "Making a Difference",
+
+  "contactUs": "Contact Us",
+  "getInTouch": "Get In Touch",
+  "getInTouchDetail": "Get in touch to discuss more details of our products. We are welcome all your questions and needs with our products. Please give us a call, drop us an email or fill out the contact form and we’ll get back to you.",
+  "callUs": "Call Us",
+  "addressInfo": "group 3, Sala Balat village,   Ou Mal commune, Battambang Cambodia ",
+  "mailUs": "Mail Us",
+  "visitUs": "Visit Us",
+  "navitaExistingProduct": "Navita's Existing Products",
+
+
+  "footer": "Cambodia’s fruits are recognized as natural and delicious due to the favorable natural terrain. Navita was established for the purpose of processing and packing fresh fruits into dried fruits. Customer’s health is the main factor that Navita pays attention to. Each product is processed according to hygiene practical and techniques from food engineering experts to ensure the natural taste and benefit to the health of customers."
+  }
