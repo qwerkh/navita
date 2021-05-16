@@ -49,7 +49,7 @@
         >
         </v-img>
       </template>
-      <h3>Navita</h3>
+      <img src="./assets/logo-bar.png" width="180px" height="40px"/>
       <v-spacer></v-spacer>
 
       <v-btn icon @click="changeLanguage()" v-if="$vuetify.breakpoint.mobile">
@@ -101,7 +101,6 @@
           v-if="!$vuetify.breakpoint.mobile"
           align-with-title
           centered
-          style="margin-left: 30%"
       >
         <v-tabs-slider color="yellow"></v-tabs-slider>
         <v-tab to="/"
@@ -515,11 +514,13 @@ export default {
 
 .subTitle1 {
   size: 12px;
+  text-align: justify !important;
 }
 
 .subTitle2 {
   size: 12px;
   text-align: left !important;
+
 }
 
 .iconColor {
@@ -528,6 +529,9 @@ export default {
 
 .v-list-item .v-list-item__title, .v-list-item .v-list-item__subtitle {
   line-height: 2.2 !important;
+}
+html{
+  font-size: 20px !important;
 }
 
 </style>

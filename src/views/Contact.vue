@@ -5,7 +5,7 @@
       {{ $t("getInTouch") }}
     </h2>
     <v-row>
-      <v-col cols="12" md="6" sm="6">
+      <v-col cols="12" md="7" sm="7">
         <div class="subTitle1" style="text-align: left">
           {{ $t("getInTouchDetail") }}
         </div>
@@ -51,13 +51,14 @@
               <v-list-item-content>
                 <v-list-item-title>{{ $t("callUs") }}</v-list-item-title>
                 <v-list-item-subtitle>(855) 96 47 77 456</v-list-item-subtitle>
+                <v-list-item-subtitle>(855) 96 24 24 456</v-list-item-subtitle>
               </v-list-item-content>
             </v-list-item>
           </template>
         </v-list>
       </v-col>
 
-      <v-col cols="12" md="6" sm="6">
+      <v-col cols="12" md="5" sm="5">
           <v-img src="../assets/dFruit.gif"></v-img>
       </v-col>
     </v-row>
