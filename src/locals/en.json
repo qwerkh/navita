@@ -4,11 +4,23 @@
   "welcome": "Welcome to Navita Food Prodcution",
   "slogan": "Eat Healthy - Look Healthy - Feel Healthy",
   "dragonFruit": "Natural Dried Dragon Fruit",
-  "subtitleDragonFruit": "Our natural dried dragon fruit is 100% from the best quality of fresh dragon fruit. One package of dried dragon fruit contains 50g of net weight producing from 3 fresh dragon fruits and provided lots of benefits to your health with high nutrients, calcium, vitaminB1, vitaminB2, vitaminB3, vitamin C and Vitamin E. There are no sugars added, no preservatives nor color added.",
+  "subtitleDragonFruit": "Our natural dried dragon fruit is 100% from the best quality of fresh dragon fruit. One package of dried dragon fruit contains 50g of net weight producing from 3 fresh dragon fruits and provided lots of benefits to your health with high nutrients:\n",
+  "calcium": "Calcium",
+  "vitaminB1": "Vitamin B1",
+  "vitaminB2": "Vitamin B2",
+  "vitaminB3": "Vitamin B3",
+  "vitaminC": "Vitamin C",
+  "vitaminE": "Vitamin E",
+  "vitaminB": "Vitamin B",
+  "vitaminA": "Vitamin A",
+  "sugarsAdded": "Sugars Added",
+  "colorAdded": "Color Added",
+  "preservatives": "Preservatives",
+
   "pineapple": "Natural Dried Pineapple",
-  "subtitlePineapple": "Our natural dried pineapple is 100% from the best quality of fresh pineapple. One package of dried pineapple contains 60g of net weight producing from 3 fresh pineapples and provided lots of benefits to your health with high nutrients, calcium, vitamin A, Vitamin B, vitamin C, and vitamin E. There are no sugars added, no preservatives, nor color added.",
+  "subtitlePineapple": "Our natural dried pineapple is 100% from the best quality of fresh pineapple. One package of dried pineapple contains 60g of net weight producing from 3 fresh pineapples and provided lots of benefits to your health with high nutrients:\n",
   "mango": "Natural Dried Mango",
-  "subtitleMango": "Navita's natural dried mango is 100% collected from a personal farm with the best quality of mango. One package of dried mango contains 70g of net weight producing from 3 fresh mangoes and provided lots of benefits to your health with high vitamin and calcium. There are no sugars added, no preservatives, nor color added.",
+  "subtitleMango": "Navita's natural dried mango is 100% collected from a personal farm with the best quality of mango. One package of dried mango contains 70g of net weight producing from 3 fresh mangoes and provided lots of benefits to your health:\n",
 
   "about": "About Us",
   "aboutUs": "About Us",
@@ -16,7 +28,7 @@
   "subtitleAboutUs": "Navita was established in November 2020 in the form of a small start-up enterprise. Founder and Co-founder are siblings who graduated from Industrial Engineering and Food Science Engineering, respectively, and it is the strong foundation and investment in this business. Not different from other enterprises, Navita exists because of love in the agroindustry sector. Moreover, Navita is part of helping the Cambodian economy by providing more jobs and create more markets for local farmers. \n",
   "subtitleAboutUs1": "Many enterprises in Cambodia are working in the same field of dried fruit processing, but Navita is doing things differently. Navita’s core value is no sugar nor preservatives added. We provide completely healthy snacks rich in vitamins from natural fruit to our consumers. Carefully standardized hygiene packaging process, eye-catching packaging design, and healthy dried fruit are the value-added, which make us proud to present this unique product to the markets (anywhere both domestic and international).\n",
   "vision": "VISION",
-  "vision1": "To be the first choice of Healthy food in the mindset of consumers and honored cooperation.\n",
+  "vision1": "To be the first choice of Healthy food in the mindset of consumers and honored cooperation in region.\n",
   "mission": "MISSION",
   "mission0": "Navita is committed to:",
   "mission1": " Produce quality dried fruits without using any harmful chemicals to health\n",
@@ -37,6 +49,7 @@
   "visitUs": "Visit Us",
   "navitaExistingProduct": "Navita's Existing Products",
 
+  "whyNavita": "Why Navita is the first choice for health!",
 
   "footer": "Cambodia’s fruits are recognized as natural and delicious due to the favorable natural terrain. Navita was established for the purpose of processing and packing fresh fruits into dried fruits. Customer’s health is the main factor that Navita pays attention to. Each product is processed according to hygiene practical and techniques from food engineering experts to ensure the natural taste and benefit to the health of customers."
   }

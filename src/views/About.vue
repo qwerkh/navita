@@ -15,14 +15,13 @@
     <br>
     <br>
     <h1 class="title1">{{ $t("vision") }}</h1>
-    <span class="subTitle1" style="font-size: 25px;font-weight: bold">
+    <span class="subTitle1" style="font-size: 25px;font-weight: bold;text-transform: uppercase">
       {{$t("vision1")}}
     </span>
     <br>
     <br>
 
     <h1 class="title1">{{ $t("mission") }}</h1>
-    <br>
     <v-row>
       <v-col cols="12" md="2" sm="2"></v-col>
       <v-col cols="12" md="10" sm="10">
@@ -43,7 +42,6 @@
     </v-row>
     <br>
     <h1 class="title1">{{ $t("coreValue") }}</h1>
-    <br>
 
     <v-row>
       <v-col cols="12" md="2" sm="2"></v-col>
