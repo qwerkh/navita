@@ -146,11 +146,12 @@
         hide-delimiter-background
     >
       <v-carousel-item
+          eager
           v-if="!$vuetify.breakpoint.mobile"
           key="121"
-          reverse-transition="fade-transition"
+
           background-size="contain"
-          transition="slide-x-transition"
+
           src="./assets/slider0.jpg"
       >
         <div class="absolute-div">
@@ -160,11 +161,12 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
+          eager
           v-if="$vuetify.breakpoint.mobile"
           key="121"
-          reverse-transition="fade-transition"
+
           background-size="contain"
-          transition="slide-x-transition"
+
           src="./assets/slider0m.jpg"
       >
         <div class="absolute-div">
@@ -174,11 +176,12 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
+          eager
           v-if="$vuetify.breakpoint.mobile"
           key="1"
-          reverse-transition="fade-transition"
+
           background-size="contain"
-          transition="slide-x-transition"
+
           src="./assets/slider1m.jpg"
       >
         <div class="absolute-div">
@@ -188,12 +191,13 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
+          eager
           v-if="!$vuetify.breakpoint.mobile"
 
           key="1"
-          reverse-transition="fade-transition"
+
           background-size="contain"
-          transition="slide-x-transition"
+
           src="./assets/slider1.jpg"
       >
         <div class="absolute-div">
@@ -203,12 +207,13 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
+          eager
           v-if="!$vuetify.breakpoint.mobile"
 
           key="2"
           background-size="contain"
-          reverse-transition="fade-transition"
-          transition="slide-x-transition"
+
+
           src="./assets/slider2.jpg"
 
       >
@@ -219,11 +224,12 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
+          eager
           key="2"
           v-if="$vuetify.breakpoint.mobile"
           background-size="contain"
-          reverse-transition="fade-transition"
-          transition="slide-x-transition"
+
+
           src="./assets/slider2m.jpg"
 
       >
@@ -234,12 +240,13 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
+          eager
           key="3"
           v-if="!$vuetify.breakpoint.mobile"
 
           background-size="contain"
-          reverse-transition="fade-transition"
-          transition="slide-x-transition"
+
+
           src="./assets/slider3.jpg"
 
 
@@ -253,12 +260,13 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
+          eager
           key="3"
           v-if="$vuetify.breakpoint.mobile"
 
           background-size="contain"
-          reverse-transition="fade-transition"
-          transition="slide-x-transition"
+
+
           src="./assets/slider3m.jpg"
 
 
@@ -272,13 +280,14 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
+          eager
           key="4"
           v-if="!$vuetify.breakpoint.mobile"
 
           background-size="contain"
           src="./assets/slider4.jpg"
-          reverse-transition="fade-transition"
-          transition="slide-x-transition"
+
+
       >
 
         <div class="absolute-div">
@@ -288,13 +297,14 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
+          eager
           key="4"
           v-if="$vuetify.breakpoint.mobile"
 
           background-size="contain"
           src="./assets/slider4m.jpg"
-          reverse-transition="fade-transition"
-          transition="slide-x-transition"
+
+
       >
 
         <div class="absolute-div">
@@ -304,12 +314,13 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
+          eager
           key="5"
           v-if="!$vuetify.breakpoint.mobile"
 
           src="./assets/slider5.jpg"
-          reverse-transition="fade-transition"
-          transition="slide-x-transition"
+
+
       >
 
         <div class="absolute-div">
@@ -319,11 +330,12 @@
         </div>
       </v-carousel-item>
       <v-carousel-item
+          eager
           key="5"
           v-if="$vuetify.breakpoint.mobile"
           src="./assets/slider5m.jpg"
-          reverse-transition="fade-transition"
-          transition="slide-x-transition"
+
+
       >
 
         <div class="absolute-div">
